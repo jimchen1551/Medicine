@@ -11,26 +11,18 @@
             "id": "0967348dc1129215",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Immunology.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1c0931cfbe805156",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.12"
+                "file": "Medicine.canvas",
+                "viewState": {
+                  "x": 73.46999999999998,
+                  "y": 39.059999999999825,
+                  "zoom": 0
+                }
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -104,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Immunology.md",
+                "file": "Medicine.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Immunology.md",
+                "file": "Medicine.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -200,11 +192,18 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1c0931cfbe805156",
+  "active": "0967348dc1129215",
   "lastOpenFiles": [
-    "Immunology/Innate Immunity/Complement System.md",
-    "Immunology.md",
+    "Syntax.md",
+    "README.md",
+    "Physiology.md",
+    "Pharmacology.md",
+    "Pathology.md",
+    "Microbiology.md",
+    "Medicine.canvas",
     "Medicine.md",
+    "Immunology.md",
+    "Immunology/Innate Immunity/Complement System.md",
     "Immunology/Innate Immunity/Complement System/C5 Activation.md",
     "Pathology/Cellular Pathology/Adaptation/Metaplasia.md",
     "Pathology/Cellular Pathology/Adaptation/Hypoplasia.md",
@@ -213,9 +212,6 @@
     "Pathology/Cellular Pathology/Adaptation/Dysplasia.md",
     "Pathology/Cellular Pathology/Adaptation/Atrophy.md",
     "Pathology/Cellular Pathology/Adaptation/Aplasia.md",
-    "Pharmacology.md",
-    "Physiology.md",
-    "README.md",
     "Histology.md",
     "Physiology/Cell Physiology/Signal Transduction/G Protein-Coupled Receptor.md",
     "Physiology/Cell Physiology/Signal Transduction/Adenylyl Cyclase Pathway.md",
@@ -229,15 +225,12 @@
     "Resources/Screenshot 2023-10-09 at 22.49.10.png",
     "Resources/Screenshot 2023-10-09 at 22.47.55.png",
     "Resources/Screenshot 2023-10-09 at 22.46.29.png",
-    "Pathology.md",
     "Anatomy.md",
     "Embryology.md",
     "Biochemistry.md",
     "Cell.md",
-    "Microbiology.md",
     "Pathology/Cellular Pathology/Injury/CO Poisoning.md",
     "Immunology/Immune Cells/NK Cell.md",
-    "Immunology/Immune Cells/Macrophage.md",
     "Pathology/Cellular Pathology/Death",
     "Pathology/Cellular Pathology/Injury",
     "Pathology/Cellular Pathology/Adaptation",
