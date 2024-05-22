@@ -4,22 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "09daff1067903288",
+        "id": "1535cb98f049be9e",
         "type": "tabs",
         "children": [
           {
-            "id": "0967348dc1129215",
+            "id": "ffef083fab1756fc",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Medicine.canvas",
-                "viewState": {
-                  "x": 73.46999999999998,
-                  "y": 39.059999999999825,
-                  "zoom": 0
-                }
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -96,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Medicine.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Medicine.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,16 +183,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0967348dc1129215",
+  "active": "ffef083fab1756fc",
   "lastOpenFiles": [
+    "Untitled.canvas",
+    "Medicine.md",
+    "Medicine.canvas",
     "Syntax.md",
     "README.md",
     "Physiology.md",
     "Pharmacology.md",
     "Pathology.md",
     "Microbiology.md",
-    "Medicine.canvas",
-    "Medicine.md",
     "Immunology.md",
     "Immunology/Innate Immunity/Complement System.md",
     "Immunology/Innate Immunity/Complement System/C5 Activation.md",
@@ -230,7 +222,6 @@
     "Biochemistry.md",
     "Cell.md",
     "Pathology/Cellular Pathology/Injury/CO Poisoning.md",
-    "Immunology/Immune Cells/NK Cell.md",
     "Pathology/Cellular Pathology/Death",
     "Pathology/Cellular Pathology/Injury",
     "Pathology/Cellular Pathology/Adaptation",
