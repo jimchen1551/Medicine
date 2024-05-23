@@ -11,8 +11,12 @@
             "id": "ffef083fab1756fc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Immunology.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Immunology.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Immunology.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,19 +186,22 @@
       "canvas:Create new canvas": false,
       "command-palette:Open command palette": false,
       "markdown-importer:Open format converter": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-projects:Open projects": false
     }
   },
   "active": "ffef083fab1756fc",
   "lastOpenFiles": [
-    "Untitled.canvas",
     "Medicine.md",
-    "Medicine.canvas",
-    "Syntax.md",
-    "README.md",
+    "Template/YAML.md",
+    "Physiology/Cell Physiology/Signal Transduction/G Protein-Coupled Receptor.md",
     "Physiology.md",
-    "Pharmacology.md",
+    "README.md",
+    "Syntax.md",
     "Pathology.md",
+    "Medicine.canvas",
+    "Untitled.canvas",
+    "Pharmacology.md",
     "Microbiology.md",
     "Immunology.md",
     "Immunology/Innate Immunity/Complement System.md",
@@ -205,7 +214,6 @@
     "Pathology/Cellular Pathology/Adaptation/Atrophy.md",
     "Pathology/Cellular Pathology/Adaptation/Aplasia.md",
     "Histology.md",
-    "Physiology/Cell Physiology/Signal Transduction/G Protein-Coupled Receptor.md",
     "Physiology/Cell Physiology/Signal Transduction/Adenylyl Cyclase Pathway.md",
     "Resources/Screenshot 2023-10-09 at 23.00.07.png",
     "Resources/Screenshot 2023-10-09 at 22.59.24.png",

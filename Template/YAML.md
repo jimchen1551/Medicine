@@ -1,5 +1,6 @@
 ---
-Created: [[<%tp.date.now("YYYY-MM-DD")%>]]
-Aliases: 
-Sources: 
+created:
+  - - <%tp.date.now("YYYY-MM-DD")%>
+aliases: 
+sources:
 ---
